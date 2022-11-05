@@ -1,0 +1,13 @@
+.left {
+    float: left;
+    width: 300px;
+    height: 100vh;
+   
+  }
+
+  .right {
+    margin-left: 310px;
+    height: 100vh;
+ 
+  }
+
